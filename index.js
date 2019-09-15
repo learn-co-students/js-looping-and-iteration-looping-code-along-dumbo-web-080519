@@ -11,4 +11,9 @@ function countdown(number) {
     for (let num = number; num >= 0; num--) {
         console.log(num)
     }
+
+    // while (number > 0) {
+    //     console.log(number);
+    //     number--
+    // }
 }
